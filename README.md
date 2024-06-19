@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Erick León 👋
 
+- 🎓 I'm a Computer Engineering student at UNAM (National Autonomous University of Mexico).
+- 🌱 Currently diving into the world of competitive programming and participating in competitions.
+- 📚 Always eager to learn new things and expand my knowledge.
+- 🌆 I live in Mexico City.
 <!--
 **ErickLeonG/ErickLeonG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

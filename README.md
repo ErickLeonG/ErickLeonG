@@ -2,6 +2,7 @@
 
 - 🎓 I'm a Computer Engineering student at UNAM (National Autonomous University of Mexico).
 - 🌱 Currently diving into the world of competitive programming and participating in competitions.
+- 💻 Most days, I solve competitive programming problems using C++, particularly on platforms like Codeforces.
 - 📚 Always eager to learn new things and expand my knowledge.
 - 🌆 I live in Mexico City.
 <!--
